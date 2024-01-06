@@ -11,9 +11,9 @@ incognito-ddos is a DDOS tool {Distributed Denial of Service} with eight direct 
   1. pkg update && pkg upgrade
   2. pkg install git
   3. pkg install python3
-  4. git clone https://github.com/MrSanZz/RevengeC2
-  5. cd RevengeC2
-  6. python3 c2.py
+  4. git clone https://github.com/Whomrx666/incognito-ddos
+  5. cd incognito-ddos
+  6. python3 incognito-ddos.py
 
   kali-linux:
 
@@ -21,8 +21,8 @@ incognito-ddos is a DDOS tool {Distributed Denial of Service} with eight direct 
   2. apt install git
   3. apt install python3
   4. apt install python3-pip
-  5. git clone https://github.com/MrSanZz/RevengeC2
-  6. cd RevengeC2
+  5. git clone https://github.com/Whomrx666/incognito-ddos
+  6. cd incognito-ddos
   7. python3 c2.py
 
   Ubuntu:
