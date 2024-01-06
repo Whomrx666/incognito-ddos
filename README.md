@@ -23,7 +23,7 @@ incognito-ddos is a DDOS tool {Distributed Denial of Service} with eight direct 
   4. apt install python3-pip
   5. git clone https://github.com/Whomrx666/incognito-ddos
   6. cd incognito-ddos
-  7. python3 c2.py
+  7. python3 incognito-ddos.py
 
   Ubuntu:
 
